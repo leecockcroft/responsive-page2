@@ -1,0 +1,21 @@
+*,
+*:before,
+*:after {
+margin:0;
+padding:0;
+box-sizing: border-box;
+
+}
+
+html{
+  font-size:62.5%;
+
+}
+
+#wrapper{
+  width:95%;
+  margin:auto;
+  font-size:1.6rem;
+  font-family: 'Josefin Sans', sans-serif;
+  background: hsl(0, 100%, 98%);
+}
